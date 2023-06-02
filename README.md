@@ -4,6 +4,8 @@
 
 In this project I will put into practice some of the things I've been learning in the "Python for Data Science" and "My first leadership" training, both from [@Alura](https://www.alura.com.br/).
 
+![avaliacao_liderenca](https://github.com/MrJoia/Data_Science_leadership_assesments/assets/95688863/b82b87f9-514a-4ad2-9562-092ef3037c1e)
+
 ---
 Training link "My first leadership":  https://cursos.alura.com.br/formacao-minha-primeira-lideranca
 
